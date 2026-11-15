@@ -13,6 +13,10 @@ Refer to: [Google Colab](https://colab.research.google.com/drive/1_Z9kNYsC8pgXJL
 
 🚀 **Live Demo:** [Try CardiaSense](https://cardiasense.streamlit.app/)
 
+# Demo Video
+
+Refer to: [Google Drive](https://drive.google.com/file/d/1KmpS69k3y0xJdk0vW8Ff8IA3dNJ-joHU/view?usp=sharing)
+
 # Disclaimer
 
 CardiaSense is an educational machine learning project developed for research and demonstration purposes. It is not a medical diagnostic tool and should not replace professional medical advice or evaluation.
