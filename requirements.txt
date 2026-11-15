@@ -1,10 +1,7 @@
-cardiasense/
-│
-├── app.py
-├── requirements.txt
-├── lr_model.joblib
-├── routine_lr_model.joblib
-├── baseline_model.joblib
-├── shap_background.joblib
-├── heart_disease_risk_prediction.ipynb
-└── README.md
+streamlit
+joblib
+shap
+scikit-learn
+pandas
+numpy
+matplotlib
