@@ -3,7 +3,11 @@ CardiaSense is an AI-powered heart disease risk prediction app featuring explain
 
 # Write-up
 
-Refer to: [Google Docs](https://docs.google.com/document/d/1W512hVEmKCyGsvXu5B6qECIZtC1SgkvGm696OHgI9vQ/edit?tab=t.0)
+Refer to: [Google Docs](https://docs.google.com/document/d/1W512hVEmKCyGsvXu5B6qECIZtC1SgkvGm696OHgI9vQ/edit?usp=sharing)
+
+# Model Development
+
+Refer to: [Google Colab](https://colab.research.google.com/drive/1_Z9kNYsC8pgXJLjLt22qvOwfSsYNWU8o?usp=sharing)
 
 # CardiaSense – Heart Disease Risk Prediction
 
