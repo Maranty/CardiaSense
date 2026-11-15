@@ -1,5 +1,5 @@
 # CardiaSense
-CardiaSense is an AI-powered heart disease risk prediction app featuring explainable predictions using SHAP.
+CardiaSense is an explainable AI-powered application that predicts heart disease risk using clinical indicators and SHAP-based insights to make machine learning predictions more transparent and interpretable.
 
 # Write-up
 
